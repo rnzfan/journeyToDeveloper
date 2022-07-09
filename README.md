@@ -11,7 +11,7 @@
 
 		- [A Word Count Tool]
 
-		- [A roman to Decimal Converter]
+		- [A Roman to Decimal Converter]
 
 		- [A Paper Scissors Rock game] for my son to try, have fun!
 
@@ -55,7 +55,7 @@
 *Certification from well-known educational provider is a recognition to me from a third party to acknowledge my practical skills for development.*
 
 - [Harvard CS50W]
-	- This is a practical Web Programming course which required prior experience in programming language. It picks up where CS50X (Harvard well-known Computer Science introduction course) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. It required the full completion of all their six projects to get the Certificate. Because of academic honesty, I cannot upload my own codes to the public. I am currently doing its fifth project and will reach the final one very soon.
+	- This is a practical Web Programming course which required prior experience in programming language. It picks up where [CS50X] (Harvard well-known Computer Science introduction course) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. It required the full completion of all their six projects to get the Certificate. Because of academic honesty, I cannot share my own codes to the public. I am currently doing its fifth project and will reach the final one very soon.
   
   
 ## Official Documentations
@@ -70,7 +70,7 @@
 [Eloquent JavaScript]: https://eloquentjavascript.net/
 [The Quick Python Book]: https://www.manning.com/books/the-quick-python-book-third-edition
 [A Word Count Tool]: https://github.com/rnzfan/wordcount
-[A roman to Decimal Converter]: https://github.com/rnzfan/roman
+[A Roman to Decimal Converter]: https://github.com/rnzfan/roman
 [A Paper Scissors Rock game]: https://github.com/rnzfan/paperscissorsrockgame
 [My first ever calculator]: https://github.com/rnzfan/calculator
 [a platform game]: https://github.com/rnzfan/a2dPlatformGame
@@ -88,6 +88,7 @@
 [codewars]: https://www.codewars.com/
 [codewars repository]: https://github.com/rnzfan/codewars
 [Harvard CS50W]: https://cs50.harvard.edu/web/2020/
+[CS50X]: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
 [mdn web docs]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Python documentation]: https://docs.python.org/3/
 [Django documentation]: https://docs.djangoproject.com/en/4.0/
