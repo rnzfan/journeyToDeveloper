@@ -55,7 +55,7 @@
 *Certification from well-known educational provider is a recognition to me from a third party to acknowledge my practical skills for development.*
 
 - [Harvard CS50W]
-	- This is a practical Web Programming course which required prior experience in programming language. It picks up where [CS50X] (Harvard well-known Computer Science introduction course) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. It required the full completion of all their six projects to get the Certificate. Because of academic honesty, I cannot share my own codes to the public. I am currently doing its fifth project and will reach the final one very soon.
+	- This is a practical Web Programming course which required prior experience in programming language. It picks up where [CS50X] (Harvard well-known Computer Science introduction course) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. It required the full completion of all their six projects to get the Certificate. Because of academic honesty, I cannot share my own codes (except final project as it is an open topic project) to the public. I already completed all the projects and got the Certificate.
   
   
 ## Official Documentations
